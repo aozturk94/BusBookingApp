@@ -1,0 +1,39 @@
+﻿@model Route
+
+
+@if (Model != null)
+{
+
+
+<div class="card shadow w-100 mt-5">
+    <div class="card-body row align-items-center">
+        <div class="col-sm-6 card-text">
+            <a asp-controller="Route" asp-action="Details" asp-route-id="@Model.RouteId" class="card-title route-title">@Model.StartLocation <i class="fas fa-long-arrow-alt-right"></i> @Model.EndLocation</a>
+            <p class="card-text">@Model.StartLocation > @Model.FirstStation > @Model.SecondStation > @Model.ThirdStation > @Model.EndLocation</p>
+        </div>
+        <div class="col-sm-1 card-text p-2 text-center">
+            <img src="~/img/car-seat.png" class="seat-icon" alt="">&nbsp;2+1
+        </div>
+        <div class="col-sm-3 card-text text-center">
+            <h5>@Model.Date / @Model.Time</h5>
+        </div>
+        <div class="col-sm-2 d-flex align-items-center card-text text-center">
+            <div class="m-2">
+                <h5>@Model.Price <i class="fa-solid fa-turkish-lira-sign"></i></h5>
+            </div>
+
+                <a asp-controller="Ticket" asp-action="Details" asp-route-id="@Model.RouteId" class="btn btn-sm m-2 btn-outline-danger">Pre-Book</a>
+        </div>
+    </div>
+</div>
+
+}
+else
+{
+    <h2>Hoopp</h2>
+}
+
+
+
+
+

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Bus_Ticket_Booking.Entity</RootNamespace>
+  </PropertyGroup>
+
+</Project>

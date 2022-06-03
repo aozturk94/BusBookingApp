@@ -1,0 +1,61 @@
+﻿@model RouteTicket
+
+<div class="container mt-4">
+    <div class="col-sm-12">
+        <h1 class="h3">Bilet Kontrol</h1> <hr />
+
+        <a class="btn btn-sm btn-primary" asp-controller="Admin" asp-action="CreateRoute">Create Route</a>
+        <i class="fa-brands fa-yelp"></i>
+        <a class="nav__link" asp-controller="Admin" asp-action="AdminList">Back</a>
+
+        <br />
+        <table class="table table table-bordered shadow-sm mt-3">
+            <thead>
+                <tr>
+                    <th>Route ID</th>
+                    <th>Start Location</th>
+                    <th>First Station</th>
+                    <th>Second Station</th>
+                    <th>Third Station</th>
+                    <th>End Station</th>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Price</th>
+                    <th width="165">Action</th>
+                </tr>
+            <tbody>
+                @if (Model.Routes.Count > 0)
+                {
+                    @foreach (var item in Model.Routes)
+                    {
+                        <tr>
+                            <td>@item.RouteId</td>
+                            <td>@item.StartLocation
+                            <td>@item.FirstStation</td>
+                            <td>@item.SecondStation</td>
+                            <td>@item.ThirdStation</td>
+                            <td>@item.EndLocation</td>
+                            <td>@item.Date</td>
+                            <td>@item.Time</td>
+                            <td>@item.Price ₺</td>
+                            <td>
+                                <a asp-action="EditRoute" asp-route-id="@item.RouteId" class="btn btn-sm btn-primary">Edit</a>
+                                <form action="DeleteRoute" method="POST" style="display:inline;">
+                                    <input type="hidden" name="routeId" value="@item.RouteId" />
+                                    <button type="submit" class="btn btn-danger btn-sm" style="color: white;">Delete Route</button>
+                                </form>
+
+                            </td>
+                        </tr>
+                    } }
+                else
+                {
+                    <tr>
+                        <td>Sistemde henüz kayıtlı rota yok!</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>

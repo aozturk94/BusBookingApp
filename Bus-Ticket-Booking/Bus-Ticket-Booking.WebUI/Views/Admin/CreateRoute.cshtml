@@ -1,0 +1,82 @@
+﻿@model Route
+
+<h5 class="display-4 container">Create Route</h5>
+<hr />
+<form asp-controller="Admin" asp-action="CreateRoute" method="post" class="container offset-3">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Start Location:</label>
+                <div class="col-sm-9">
+                    <select name="startLocation" class="form-select" id="from-place" asp-items="@ViewBag.Cities">
+                        <option selected disabled></option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">First Station:</label>
+                <div class="col-sm-9">
+                    <select name="FirstStation" class="form-select" id="from-place" asp-items="@ViewBag.Cities">
+                        <option selected disabled></option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Second Station:</label>
+                <div class="col-sm-9">
+                    <select name="SecondStation" class="form-select" id="from-place" asp-items="@ViewBag.Cities">
+                        <option selected disabled></option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Third Station:</label>
+                <div class="col-sm-9">
+                    <select name="ThirdStation" class="form-select" id="from-place" asp-items="@ViewBag.Cities">
+                        <option selected disabled></option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">End Station:</label>
+                <div class="col-sm-9">
+                    <select name="EndLocation" class="form-select" id="from-place" asp-items="@ViewBag.Cities">
+                        <option selected disabled></option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Date</label>
+                <div class="col-sm-9">
+                    <input type="date" name="Date" value="" class="form-control" min="01.01.1990" max="31.12.2050"/>
+                </div>
+            </div>
+
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Time:</label>
+                <div class="col-sm-9">
+                    <input type="time" class="form-control" name="Time" value="" />
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Price:</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" name="Price" value="" placeholder="₺" />
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <div class="col-sm-3 offset-sm-9">
+                    <button type="submit" class="btn btn-primary">Save Route</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+

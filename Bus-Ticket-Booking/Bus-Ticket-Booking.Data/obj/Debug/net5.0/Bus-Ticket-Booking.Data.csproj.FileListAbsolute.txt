@@ -1,0 +1,53 @@
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.deps.json
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.runtimeconfig.json
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.runtimeconfig.dev.json
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\ref\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.pdb
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.dll
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.pdb
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.AssemblyInfoInputs.cache
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.AssemblyInfo.cs
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.CopyComplete
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\ref\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.pdb
+C:\Users\Ahmet Ozturk\source\repos\aozturk94\WEB7_Project\Entity Framework\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.genruntimeconfig.cache
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.deps.json
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.runtimeconfig.json
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.runtimeconfig.dev.json
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\ref\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.pdb
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.dll
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.pdb
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.AssemblyInfoInputs.cache
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.AssemblyInfo.cs
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.CopyComplete
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\ref\Bus-Ticket-Booking.Data.dll
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.pdb
+C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.deps.json
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.runtimeconfig.json
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.runtimeconfig.dev.json
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.dll
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\ref\Bus-Ticket-Booking.Data.dll
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Data.pdb
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.dll
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.pdb
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.dll
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\ref\Bus-Ticket-Booking.Data.dll
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.pdb
+C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Data\obj\Debug\net5.0\Bus-Ticket-Booking.Data.genruntimeconfig.cache

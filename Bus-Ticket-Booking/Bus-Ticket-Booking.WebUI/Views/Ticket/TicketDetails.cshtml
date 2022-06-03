@@ -1,0 +1,90 @@
+﻿@model RouteTicket
+
+
+
+<form asp-controller="Ticket" asp-action="TicketDetails" method="post">
+    <div class="text-center">
+        <br />
+        <br /><p> Mr./Mrs. @Model.Ticket.CostumerName @Model.Ticket.CosturmerSurname, your ticket request from @Model.Ticket.TravelFrom to @Model.Ticket.TravelTo has been successfully defined.</p>
+        <h3>Your Ticket</h3>
+        <br />
+        <div class="form-group container">
+            <div class="row">
+                <div class="col-md-6 p-0">
+                    <div class="card border-info pt-2" style="border-right: 2px dotted black !important">
+                        <div class="d-flex justify-content-center align-items-center" style="border-radius:203px; height:203px; width:203px; background: #F8FAF5; margin:0 auto;">
+                            <i class="fas fa-check-circle" style="font-size:156px; color:green;"></i>
+                        </div>
+                        <h3 class="mt-1">Success</h3>
+                        <h2> PRN Number: @Model.Ticket.PeronNumber</h2>
+                    </div>
+                </div>
+                <div class="col-md-6 p-0">
+                    <div class="card border-info pt-2 container-fluid" style="border-left: 2px dotted black !important">
+                        <hr />
+                        <div class="d-flex justify-content-around">
+                            <p>DATE: @Model.Date</p><p>Time: @Model.Time</p><p>Seat No: @Model.Ticket.SeatNumber</p>
+                        </div>
+                        <hr />
+                        <h3>Passenger:</h3>
+                        <h2>@Model.Ticket.CostumerName @Model.Ticket.CosturmerSurname</h2>
+                        <h4>Price:<small>@Model.Ticket.Price ₺</small></h4>
+                        <hr />
+                        <h5>
+                            @Model.Ticket.TravelFrom <i class="fa-solid fa-arrow-right"></i>
+                            @Model.Ticket.TravelTo
+                        </h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+
+            <div class="form-group container">
+                <div class="col-sm-6 offset-sm-3 mt-4">
+                    <label class="col-form-label col-sm-6">Send Your Ticket to Email:</label>
+                    <input type="email" name="email" class="form-control" />
+                    <button class="btn btn-sm btn-primary mt-2">Send Mail</button>
+                </div>
+
+            </div>
+
+        </div>
+
+        <table class="table table table-bordered shadow-sm d-none">
+            <thead>
+                <tr>
+                    <th style="width:40px;">Ticket No</th>
+                    <th style="width:200px;">Name</th>
+                    <th style="">Phone Number</th>
+                    <th style="width:105px;">Travel From</th>
+                    <th style="width:105px;">Travel To</th>
+                    <th style="width:60px;">Seat Number</th>
+                    <th style="width:80px;">Price</th>
+                    <th style="width:200px;">Date - Time</th>
+
+                    <th style="width:75px;">Sefer No</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.Ticket.TicketId</td>
+                    <td>@Model.Ticket.CostumerName @Model.Ticket.CosturmerSurname</td>
+
+                    <td>@Model.Ticket.PhoneNumber</td>
+                    <td>@Model.Ticket.TravelFrom</td>
+                    <td>@Model.Ticket.TravelTo</td>
+                    <td>@Model.Ticket.SeatNumber</td>
+                    <td>@Model.Ticket.Price ₺</td>
+                    <td>@Model.Date - @Model.Time</td>
+
+                    <td>@Model.Ticket.RouteId</td>
+
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    </div>
+
+</form>

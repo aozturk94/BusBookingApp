@@ -1,0 +1,79 @@
+﻿@model RouteTicket
+
+
+
+<div class="mt-3">
+    <div class="row">
+        <div class="col-sm-2">
+            <ul class="text-center">
+                <li class="nav__item mt-4">
+                    <i class="fa-brands fa-yelp"></i>
+                    <a href="/admin/user/list" class="nav__link">USERS</a>
+                    <br />
+                </li>
+                <li class="nav__item mt-4">
+                    <i class="fa-brands fa-yelp"></i>
+                    <a href="/admin/role/list" class="nav__link">ROLES</a>
+                </li>
+                <li class="nav__item mt-4">
+                    <i class="fa-brands fa-yelp"></i>
+                    <a class="nav__link" asp-controller="Admin" asp-action="ListRoute">ROUTES</a>
+                </li>
+                <li class="nav__item mt-4">
+                    <i class="fa-solid fa-delete-left"></i>
+                    <a class="nav__link" asp-controller="Home" asp-action="Index">RETURN TO HOMEPAGE</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-md-8">
+            <h1 class="h3"> Bilet Kontrol</h1> <hr /> <br />
+            <table class="table table table-bordered shadow-sm mt-3">
+                <thead>
+                    <tr>
+                        <th style="width:20px;">BiletID</th>
+                        <th style="width:145px;">Ad - Soyad</th>
+                        <th style="">Tel</th>
+                        <th>Peron Number</th>
+                        <th style="width:25px;">Başlangıç</th>
+                        <th style="width:25px;">Bitiş</th>
+                        <th style="width:70px;">KoltukNo</th>
+                        <th style="width:80px;">Fiyat</th>
+                        <th style="width:85px;">GüzergahNo</th>
+                        <th style="width:165px;">İptal</th>
+                    </tr>
+                <tbody>
+                    @if (Model.Tickets.Count > 0)
+                    {
+        @foreach (var item in Model.Tickets)
+        {
+<tr>
+    <td>@item.TicketId</td>
+    <td>@item.CostumerName @item.CosturmerSurname</td>
+    <td>@item.PhoneNumber</td>
+    <td>@item.PeronNumber</td>
+    <td>@item.TravelFrom</td>
+    <td>@item.TravelTo</td>
+    <td>@item.SeatNumber</td>
+    <td>@item.Price ₺</td>
+    <td>@item.RouteId</td>
+    <td>
+        <form action="CancelTicket" method="POST" style="display:inline;">
+            <input type="hidden" name="ticketId" value="@item.TicketId" />
+            <button type="submit" class="btn btn-danger btn-md mr-2" style="color: white;">Bileti İptal Et</button>
+        </form>
+
+    </td>
+</tr>} }
+    else
+    {
+<tr>
+    <td colspan="12" class="text-center">Sistemde henüz kayıtlı bilet yok!</td>
+</tr>}
+                </tbody>
+
+            </table>
+        </div>
+
+    </div>
+</div>
