@@ -34,3 +34,15 @@ C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\B
 C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\ref\Bus-Ticket-Booking.Entity.dll
 C:\Users\Wissen\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.pdb
 C:\Users\Ahmet Ozturk\Desktop\Ahmet-OZTURK\TravelAgencyBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.deps.json
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.dll
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\bin\Debug\net5.0\ref\Bus-Ticket-Booking.Entity.dll
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\bin\Debug\net5.0\Bus-Ticket-Booking.Entity.pdb
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.csproj.AssemblyReference.cache
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.AssemblyInfoInputs.cache
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.AssemblyInfo.cs
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.dll
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\ref\Bus-Ticket-Booking.Entity.dll
+C:\Users\Ahmet Ozturk\Desktop\BusBookingApp\Bus-Ticket-Booking\Bus-Ticket-Booking.Entity\obj\Debug\net5.0\Bus-Ticket-Booking.Entity.pdb

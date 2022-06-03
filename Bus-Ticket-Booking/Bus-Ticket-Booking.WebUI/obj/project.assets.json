@@ -1326,11 +1326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.WebUI\\Bus-Ticket-Booking.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.WebUI\\Bus-Ticket-Booking.WebUI.csproj",
       "projectName": "Bus-Ticket-Booking.WebUI",
-      "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.WebUI\\Bus-Ticket-Booking.WebUI.csproj",
+      "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.WebUI\\Bus-Ticket-Booking.WebUI.csproj",
       "packagesPath": "C:\\Users\\Ahmet Ozturk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahmet Ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1347,11 +1347,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj": {
-              "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj"
+            "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj": {
+              "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj"
             },
-            "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj": {
-              "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\Ahmet-OZTURK\\TravelAgencyBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj"
+            "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj": {
+              "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj"
             }
           }
         }
