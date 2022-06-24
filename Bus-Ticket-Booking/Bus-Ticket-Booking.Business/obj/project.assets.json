@@ -973,20 +973,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ahmet Ozturk\\.nuget\\packages\\": {}
+    "C:\\Users\\Wissen\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj",
       "projectName": "Bus-Ticket-Booking.Business",
-      "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj",
-      "packagesPath": "C:\\Users\\Ahmet Ozturk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\obj\\",
+      "projectPath": "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\Bus-Ticket-Booking.Business.csproj",
+      "packagesPath": "C:\\Users\\Wissen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Business\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ahmet Ozturk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Wissen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -999,11 +1007,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj": {
-              "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj"
+            "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj": {
+              "projectPath": "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Data\\Bus-Ticket-Booking.Data.csproj"
             },
-            "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Entity\\Bus-Ticket-Booking.Entity.csproj": {
-              "projectPath": "C:\\Users\\Ahmet Ozturk\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Entity\\Bus-Ticket-Booking.Entity.csproj"
+            "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Entity\\Bus-Ticket-Booking.Entity.csproj": {
+              "projectPath": "C:\\Users\\Wissen\\Desktop\\BusBookingApp\\Bus-Ticket-Booking\\Bus-Ticket-Booking.Entity\\Bus-Ticket-Booking.Entity.csproj"
             }
           }
         }
@@ -1032,7 +1040,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.105\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
